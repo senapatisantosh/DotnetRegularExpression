@@ -1,0 +1,22 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+*.DotSettings.user
+
+## IDE
+.idea/
+.vscode/
+
+## Node.js / TypeScript
+node_modules/
+dist/
+*.tsbuildinfo
+
+## OS
+.DS_Store
+Thumbs.db

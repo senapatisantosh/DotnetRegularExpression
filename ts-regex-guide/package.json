@@ -1,0 +1,17 @@
+{
+  "name": "ts-regex-learning-guide",
+  "version": "1.0.0",
+  "description": "Complete TypeScript Regular Expressions learning guide - Beginner to Advanced",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js",
+    "start:level": "tsc && node dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "tsx": "^4.19.0",
+    "@types/node": "^22.0.0"
+  }
+}
